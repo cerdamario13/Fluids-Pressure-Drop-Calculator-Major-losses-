@@ -1,3 +1,4 @@
 # Fluids-Pressure-Drop-Calculator-Major-losses-
 
-GUI that calculates pressure drop in pipe with given parameters. Using Tkinter and Python
+Simple GUI that calculates pressure drop in straight pipe. Using Tkinter and Python.
+
