@@ -17,5 +17,6 @@ Nominal diameter, length, roughness (see image below)
 ![alt text]( https://github.com/cerdamario13/Fluids-Pressure-Drop-Calculator-Major-losses-/blob/master/Table%203.1%20Roughness%20factor.jpg)
 
 Calculations learned and table used from
+
 Janna, William. S. (1998). Design of Fluid Thermal Systems 2nd Edition. Boston, MA: PWS Publishing Company. 
 
